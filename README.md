@@ -269,9 +269,9 @@ Future Scope
 - Improved energy-saving and replacement-cost estimates.
 - Secure hosting of the backend and database.
 
-Academic Purpose
+Academic Propose
 
-Nagar Nirikshan demonstrates how DBMS concepts and web technologies can be applied to a municipal infrastructure monitoring problem. The project combines structured datasets, relational database design, SQL/PLSQL concepts, dashboard visualization, and rule-based risk analysis to support maintenance planning.
+Nagar  demonstrates how DBMS concepts and web technologies can be applied to a municipal infrastructure monitoring problem. The project combines structured datasets, relational database design, SQL/PLSQL concepts, dashboard visualization, and rule-based risk analysis to support maintenance planning.
 
 License
 
